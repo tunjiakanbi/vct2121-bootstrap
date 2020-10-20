@@ -1,0 +1,20 @@
+{
+  "name": "vct2121-bootstrap",
+  "version": "1.0.0",
+  "description": "Bootstrap Demo for VCT2121 class.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tunjiakanbi/vct2121-bootstrap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tunjiakanbi/vct2121-bootstrap/issues"
+  },
+  "homepage": "https://github.com/tunjiakanbi/vct2121-bootstrap#readme"
+}

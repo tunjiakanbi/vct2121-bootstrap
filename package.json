@@ -4,6 +4,7 @@
   "description": "Bootstrap Demo for VCT2121 class.",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

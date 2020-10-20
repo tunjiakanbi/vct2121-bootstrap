@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tunjiakanbi/vct2121-bootstrap/issues"
   },
-  "homepage": "https://github.com/tunjiakanbi/vct2121-bootstrap#readme"
+  "homepage": "https://github.com/tunjiakanbi/vct2121-bootstrap#readme",
+  "devDependencies": {
+    "webpack": "^5.1.3"
+  }
 }
